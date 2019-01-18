@@ -1,4 +1,4 @@
-let cypressJson = require('../fixtures/cypress.json');
+let cypressJson = require('../fixtures/data.json');
 import buyProcess from './pageObject/po_Buy';
 import createUser from './pageObject/po_CreateUser';
 import loginUser from './pageObject/po_LoginUser';
