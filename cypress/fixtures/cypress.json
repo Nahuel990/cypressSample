@@ -1,0 +1,15 @@
+{
+    "baseUrl":"http://automationpractice.com/index.php",
+    "newUser":
+    {
+        "email":"housing913@mailinator.com",
+        "firstName":"John",
+        "lastName":"Doe",
+        "password":"Housing888!!"
+    },
+    "existingUser":{
+        "email":"housing899@mailinator.com",
+        "password":"Housing888!!"
+
+    }
+}
